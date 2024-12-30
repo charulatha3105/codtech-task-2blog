@@ -1,3 +1,8 @@
+NAME CHARULATHA V
+1ST BSC COMPUTER SCIENCE WITH COGNITIVE SYSTEMS
+
+
+
 Description of the Simple Blog Application Code
 
 Overview
